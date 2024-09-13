@@ -31,30 +31,16 @@ public static class MainClass
 
     private static void EnsureNumberRepeats(List<int> list, Random random, int repeatCount)
     {
-        if (repeatCount == 2)
-        {
-            int repeatTwice = random.Next(1, 51);
-            
-            while (list.Contains(repeatTwice))
-            {
-                repeatTwice = random.Next(1, 51);
-            }
+        int repeats = random.Next(1, 51);
 
-            list.Add(repeatTwice);
-            list.Add(repeatTwice);
-        }
-        else if (repeatCount == 3)
+        while (list.Contains(repeats))
         {
-            int repeatThrice = random.Next(1, 51);
-            
-            while (list.Contains(repeatThrice))
-            {
-                repeatThrice = random.Next(1, 51);
-            }
-
-            list.Add(repeatThrice);
-            list.Add(repeatThrice);
-            list.Add(repeatThrice);
+            repeats = random.Next(1, 51);
         }
+
+        for (int i=0; i < repeatCount; i++)
+        {
+            list.Add(repeats);
+        }        
     }
 }
