@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lucas\\source\\repos\\vc-10-random-integers-with-repetitions\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{71E2A0DE-7053-4FC2-85F9-287932FA7E55}|vc-10-random-integers-with-repetitions\\vc-10-random-integers-with-repetitions.csproj|c:\\users\\lucas\\source\\repos\\vc-10-random-integers-with-repetitions\\vc-10-random-integers-with-repetitions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71E2A0DE-7053-4FC2-85F9-287932FA7E55}|vc-10-random-integers-with-repetitions\\vc-10-random-integers-with-repetitions.csproj|solutionrelative:vc-10-random-integers-with-repetitions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 162,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\source\\repos\\vc-10-random-integers-with-repetitions\\vc-10-random-integers-with-repetitions\\Program.cs",
+              "RelativeDocumentMoniker": "vc-10-random-integers-with-repetitions\\Program.cs",
+              "ToolTip": "C:\\Users\\lucas\\source\\repos\\vc-10-random-integers-with-repetitions\\vc-10-random-integers-with-repetitions\\Program.cs",
+              "RelativeToolTip": "vc-10-random-integers-with-repetitions\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T15:19:56.971Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
